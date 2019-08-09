@@ -10,3 +10,5 @@
 AK这个参数改为你在百度地图申请的AK密钥
 
 运行 `python3 photo_gps.py 1.jpg`
+
+配合这个辅助定位 简直完美 http://map.yanue.net/gps.html
